@@ -20,10 +20,10 @@ knitr::opts_chunk$set(echo = TRUE)
 4. [Word Embedding](https://github.com/brandonyph/Introduction-to-Word-Embedding-in-R)
 5. [Convolutional Neural Network with Torch for R](https://brandonyph.github.io/Torch-for-R-CNN-Example/)
 6. [ggplot2](https://brandonyph.github.io/ggplot2-tutorial/)
-7. [gganimate](https://github.com/brandonyph/gganimate-tutorial)
+7. [gganimate](https://brandonyph.github.io/gganimate-tutorial/)
 8. [Saving Images from R](https://brandonyph.github.io/Saving-Plot-As-Image/)
 9. [R Shiny App](https://github.com/brandonyph/R-Shinny-Tutorial)
-10. [Data Manipulation with dplyr](https://github.com/brandonyph/Data-Manipulation-with-dplyr)
+10. [Data Manipulation with dplyr](https://brandonyph.github.io/Data-Manipulation-with-dplyr/)
 11. [AutoEncoder vs PCA](https://github.com/brandonyph/AutoEncoder-vs-PCA-Dimensional-Reduction)
 
 
