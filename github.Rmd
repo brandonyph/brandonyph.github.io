@@ -1,0 +1,23 @@
+---
+title: "Github_Pages"
+author: "Brandon"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello Everyone, I am Brandon
+
+Here's to some of my repository 
+
+1. Recurrent Neural Network 
+2. Heatmap
+3. Convolutional Neural Network
+4. Torch for R
+5. Convolutional Neural Network with Torch for R
+6. Ggplot2
+7. Gganimate
+8. Saving Images from R
+9. R Shiny App
