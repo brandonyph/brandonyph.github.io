@@ -10,14 +10,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Hello Everyone, I am Brandon
 
-Here's to some of my repository 
+![I look like this at my best](https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/140395533_10218759743924193_3141378003277658179_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFv68Z-u9gAK0M0u3ZG19C-1N3CPl2l3YLU3cI-XaXdgssdGtAb6dTKU4sV_HI7T_A&_nc_ohc=-klgRS_iAG4AX8L82NA&_nc_ht=scontent.fkul16-1.fna&oh=ae66cf4133a0dc0688d1f1238ed8ca71&oe=606AE595)
 
-1. Recurrent Neural Network 
-2. Heatmap
-3. Convolutional Neural Network
-4. Torch for R
-5. Convolutional Neural Network with Torch for R
-6. Ggplot2
-7. Gganimate
-8. Saving Images from R
-9. R Shiny App
+## Here's some of my repository 
+
+1. [Recurrent Neural Network](https://brandonyph.github.io/Introduction-to-RNN-in-R/)
+2. [Heatmap](https://github.com/brandonyph/Heatmap-Tutorial-in-R)
+3. [Convolutional Neural Network](https://github.com/brandonyph/Introduction-to-CNN-in-R)
+4. [Word Embedding](https://github.com/brandonyph/Introduction-to-Word-Embedding-in-R)
+5. [Convolutional Neural Network with Torch for R](https://brandonyph.github.io/Torch-for-R-CNN-Example/)
+6. [ggplot2](https://brandonyph.github.io/ggplot2-tutorial/)
+7. [gganimate](https://github.com/brandonyph/gganimate-tutorial)
+8. [Saving Images from R](https://brandonyph.github.io/Saving-Plot-As-Image/)
+9. [R Shiny App](https://github.com/brandonyph/R-Shinny-Tutorial)
+10. [Data Manipulation with dplyr](https://github.com/brandonyph/Data-Manipulation-with-dplyr)
+11. [AutoEncoder vs PCA](https://github.com/brandonyph/AutoEncoder-vs-PCA-Dimensional-Reduction)
+
+
