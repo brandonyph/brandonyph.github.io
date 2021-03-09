@@ -1,7 +1,10 @@
 ---
 title: "This is awkward"
 author: "Brandon"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
 ---
 
 ```{r setup, include=FALSE}
