@@ -1,5 +1,5 @@
 ---
-title: "Github_Pages"
+title: "This is awkward"
 author: "Brandon"
 output: html_document
 ---
@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Hello Everyone, I am Brandon
+## Hello Everyone, I do data and I love cats
 
 ![I look like this at my best](https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/140395533_10218759743924193_3141378003277658179_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFv68Z-u9gAK0M0u3ZG19C-1N3CPl2l3YLU3cI-XaXdgssdGtAb6dTKU4sV_HI7T_A&_nc_ohc=-klgRS_iAG4AX8L82NA&_nc_ht=scontent.fkul16-1.fna&oh=ae66cf4133a0dc0688d1f1238ed8ca71&oe=606AE595)
 
