@@ -29,4 +29,23 @@ knitr::opts_chunk$set(echo = TRUE)
 10. [Data Manipulation with dplyr](https://brandonyph.github.io/Data-Manipulation-with-dplyr/)
 11. [AutoEncoder vs PCA](https://github.com/brandonyph/AutoEncoder-vs-PCA-Dimensional-Reduction)
 
+## Here's some random Plot of Data
+
+```{r echo=FALSE, include=FALSE}
+library(plotly)
+
+mtcars$am[which(mtcars$am == 0)] <- 'Automatic'
+mtcars$am[which(mtcars$am == 1)] <- 'Manual'
+mtcars$am <- as.factor(mtcars$am)
+
+fig <- plot_ly(mtcars, x = ~wt, y = ~hp, z = ~qsec, color = ~am, colors = c('#BF382A', '#0C4B8E'))
+fig <- fig %>% add_markers()
+plot <- fig %>% layout(scene = list(xaxis = list(title = 'Weight'),
+                                   yaxis = list(title = 'Gross horsepower'),
+                                   zaxis = list(title = '1/4 mile time')))
+
+```
+```{r}
+plot
+```
 
