@@ -1,2 +1,1 @@
-# Rshinnytesting.io
-R-Shinny-App-Test
+# This is the README file
